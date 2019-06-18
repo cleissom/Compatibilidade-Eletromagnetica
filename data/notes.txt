@@ -1,0 +1,5 @@
+1 - Placa 1
+2 - Placa 0
+3 - Placa 0
+4 - Placa 2
+5 - Placa 3
